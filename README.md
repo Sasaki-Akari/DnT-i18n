@@ -1,7 +1,7 @@
 
 # Introduction | 简介
 
-An Official Simpilified Chinese Localization project for Dungeons and Taverns  
+An Official Simplified Chinese Localization project for Dungeons and Taverns  
 
 由《地下城与酒馆》官方授权的简体中文本地化项目
 
