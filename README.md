@@ -1,12 +1,18 @@
 
-# Introduction | 简介
+# Dungeons and Taverns - Chinese Localization
 
-An Official Simplified Chinese Localization project for Dungeons and Taverns  
+## Introduction | 简介
 
-由《地下城与酒馆》官方授权的简体中文本地化项目
+An Official Chinese Localization project for Dungeons and Taverns  
 
-# Contributors | 参与者
+由《地下城与酒馆》官方授权的中文本地化项目
+
+## Contributors | 参与者
 
 Sasaki Akari(MCID:YanHuang_Sora), and co-translater MCID Diaorenmoshushi - Responsible for the Chinese Translation for Dungeons and Taverns  
 
-佐佐木明里(正版ID: YanHuang_Sora)，及共同翻译者吊人魔术师(正版ID: Diaorenmoshushi) - 负责《地下城与酒馆》的简体中文翻译
+佐佐木明里(正版ID: YanHuang_Sora)，及共同翻译者吊人魔术师(正版ID: Diaorenmoshushi) - 负责《地下城与酒馆》的简体中文翻译  
+
+雪碧 - Responsible for the Traditional Chinese Translation for Dungeons and Taverns  
+
+雪碧 - 負責《地下城與酒館》的繁體中文翻譯
