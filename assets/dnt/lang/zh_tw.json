@@ -31,10 +31,10 @@
     "advancement.dnt.adventure.find_pillager_outpost.title": "侵入者警告",
     "advancement.dnt.adventure.find_shrine": "進入神殿",
     "advancement.dnt.adventure.find_shrine.title": "力之試煉",
-    "advancement.dnt.adventure.find_shrine_6": "事有蹊蹺…",
+    "advancement.dnt.adventure.find_shrine_6": "事有蹊蹺...",
     "advancement.dnt.adventure.find_shrine_6.title": "力之試煉+",
-    "advancement.dnt.adventure.find_stray_fort": "…我們將赴凜冬\n（找到流髑要塞）",
-    "advancement.dnt.adventure.find_stray_fort.title": "若凜冬未至…",
+    "advancement.dnt.adventure.find_stray_fort": "...我們將赴凜冬\n（找到流髑要塞）",
+    "advancement.dnt.adventure.find_stray_fort.title": "若凜冬未至...",
     "advancement.dnt.adventure.find_stray_outlook": "找到流髑邊防哨",
     "advancement.dnt.adventure.find_stray_outlook.title": "覓見寒蹤",
     "advancement.dnt.adventure.find_swamp_village": "拜訪沼澤村莊",
@@ -68,7 +68,7 @@
     "advancement.dnt.end.find_end_lighthouse": "找到終界燈塔",
     "advancement.dnt.end.find_end_lighthouse.title": "在遊戲盡頭的一束光",
     "advancement.dnt.end.find_end_ship": "找到一艘孤獨的終界船舶",
-    "advancement.dnt.end.find_end_ship.title": "航行中…",
+    "advancement.dnt.end.find_end_ship.title": "航行中...",
     "advancement.dnt.end.kill_phantom_boss": "殺死終界城堡的夜魅頭目",
     "advancement.dnt.end.kill_phantom_boss.title": "恐高嗎？",
     "advancement.dnt.nether.find_donjon": "找到豬布林城堡",
@@ -439,3 +439,4 @@
     "structure.dnt.wild_ruin": "荒野廢墟",
     "structure.dnt.witch_villa": "女巫別墅"
 }
+
