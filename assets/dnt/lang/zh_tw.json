@@ -3,8 +3,6 @@
     "advancement.dnt.root.title": "歡迎來到《地下城與酒館》",
     "advancement.dnt.loot_bug_enchant": "你拿到了一本包含僅用於函數調用魔咒的附魔書。由於它並不適用於玩家，相關魔咒在你的物品欄中被替換成了節肢剋星！",
     "advancement.dnt.loot_bug_enchant.title": "為什麼會在這裡呢？",
-    "advancement.dnt.adventure.find_ancient_city": "潛入遠古城市",
-    "advancement.dnt.adventure.find_ancient_city.title": "危機四伏",
     "advancement.dnt.adventure.conquer_miner_outpost": "征服一個惡地礦工前哨站",
     "advancement.dnt.adventure.conquer_miner_outpost.title": "鈾點兒麻煩",
     "advancement.dnt.adventure.cure_zillager_pale_residence": "在蒼白聚落中治好一位殭屍村民",
@@ -13,6 +11,8 @@
     "advancement.dnt.adventure.find_all_illager_structures.title": "民風淳樸",
     "advancement.dnt.adventure.find_all_taverns": "探索並搭配地圖卷軸拜訪所有種類的酒館",
     "advancement.dnt.adventure.find_all_taverns.title": "情報網路",
+	"advancement.dnt.adventure.find_ancient_city": "潛入遠古城市",
+    "advancement.dnt.adventure.find_ancient_city.title": "危機四伏",
     "advancement.dnt.adventure.find_catacomb": "你挖得太深了，並找到了一座地下墓穴",
     "advancement.dnt.adventure.find_catacomb.title": "零層之下",
     "advancement.dnt.adventure.find_desert_ruins": "發掘沙漠遺跡",
@@ -425,3 +425,4 @@
     "structure.dnt.wild_ruin": "荒野廢墟",
     "structure.dnt.witch_villa": "女巫別墅"
 }
+
