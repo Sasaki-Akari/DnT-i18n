@@ -1,7 +1,6 @@
 {
     "pack": {
-        "description": "由《地下城与酒馆》官方授权的中文本地化项目",
-        "max_format": [999,0],
-        "min_format": [69,0]
+        "pack_format": 34,
+        "description": "由《地下城与酒馆》官方授权的中文本地化项目"
     }
 }
