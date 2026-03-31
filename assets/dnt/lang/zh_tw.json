@@ -1,7 +1,7 @@
 {
     "advancement.dnt.root": "繁體中文譯者：雪碧、佐佐木明里、吊人魔術師\n首席開發者：Nova Wostra\n開發者：Konci、Whity、MiziraGamez、Walls\n貢獻者：badooga、хлифи",
     "advancement.dnt.root.title": "歡迎來到《地下城與酒館》",
-    "advancement.dnt.loot_bug_enchant": "你拿到了一本包含僅用於函數調用魔咒的附魔書。由於它並不適用於玩家，相關魔咒在你的物品欄中被替換成了節肢剋星！",
+    "advancement.dnt.loot_bug_enchant": "你拿到了一本包含僅用於函數呼叫魔咒的附魔書。由於它並不適用於玩家，相關魔咒在你的物品欄中被替換成了節肢剋星！",
     "advancement.dnt.loot_bug_enchant.title": "為什麼會在這裡呢？",
     "advancement.dnt.adventure.conquer_illager_barracks": "他們的隊長即將趕來",
     "advancement.dnt.adventure.conquer_illager_barracks.title": "窳民先驅",
