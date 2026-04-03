@@ -48,7 +48,7 @@
   "advancement.dnt.nether.find_donjon": "找到豬布林城堡",
   "advancement.dnt.nether.find_donjon.title": "壘中之堡",
   "advancement.dnt.nether.find_hamlet": "走進豬布林村落",
-  "advancement.dnt.nether.find_hamlet.title": "不義之財",
+  "advancement.dnt.nether.find_hamlet.title": "学问渊博的猪灵",
   "advancement.dnt.nether.find_keep": "誤入地獄監牢",
   "advancement.dnt.nether.find_keep.title": "Concrete Halls",
   "advancement.dnt.nether.find_nether_skeleton": "拜訪所有種類的地獄骷髏營地、地獄骷髏塔，以及地獄港口、地獄要塞、地獄監牢和禁錮之廳",
@@ -63,6 +63,7 @@
   "advancement.dnt.nether.find_skeleton_tower.title": "碎骨者",
   "advancement.dnt.nether.powder_snow_keep": "在地獄監牢沐浴粉雪",
   "advancement.dnt.nether.powder_snow_keep.title": "冷靜一下",
+
   "enchantment.dnt.antidote": "劇毒免疫",
   "enchantment.dnt.antidote.desc": "免疫中毒傷害並將其返還至胸甲的耐久度。",
   "enchantment.dnt.conductivity_curse": "導電詛咒",
