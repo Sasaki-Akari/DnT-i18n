@@ -51,7 +51,7 @@
   "advancement.dnt.nether.find_hamlet.title": "学问渊博的猪灵",
   "advancement.dnt.nether.find_keep": "误入下界监牢",
   "advancement.dnt.nether.find_keep.title": "Concrete Halls",
-  "advancement.dnt.nether.find_nether_skeleton": "探索所有种类的下界骷髅营地、下界骷髅塔，以及下界港口、下界要塞、下界监牢",
+  "advancement.dnt.nether.find_nether_skeleton": "探索所有种类的下界骷髅营地、下界骷髅塔，以及下界港口、下界要塞和下界监牢",
   "advancement.dnt.nether.find_nether_skeleton.title": "骷髅收藏家",
   "advancement.dnt.nether.find_piglin_outpost": "闯入猪灵边防哨",
   "advancement.dnt.nether.find_piglin_outpost.title": "下界掠夺者",
@@ -139,5 +139,5 @@
   "item.dnt.filled_map.desert_ruins": "沙漠遗迹地图",
   "item.dnt.filled_map.creeping_crypt": "苦力怕地牢地图",
   "item.dnt.filled_map.end_lighthouse": "末地灯塔地图",
-  "item.dnt.filled_map.end_castle": "末地城堡地图",
+  "item.dnt.filled_map.end_castle": "末地城堡地图"
 }
